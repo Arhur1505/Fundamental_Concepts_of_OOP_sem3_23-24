@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/Array.dir/main.cpp.o CMakeFiles/Array.dir/src/Chest_1.cpp.o CMakeFiles/Array.dir/src/Chest_2.cpp.o CMakeFiles/Array.dir/src/Chest_3.cpp.o CMakeFiles/Array.dir/src/Chest_4.cpp.o -o Array 

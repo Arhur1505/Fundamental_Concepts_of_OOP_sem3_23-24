@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/Constr.dir/main.cpp.o CMakeFiles/Constr.dir/src/Car.cpp.o CMakeFiles/Constr.dir/src/CarRental.cpp.o -o Constr 

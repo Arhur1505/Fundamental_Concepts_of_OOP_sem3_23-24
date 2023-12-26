@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/Conv.dir/main.cpp.o CMakeFiles/Conv.dir/src/Car.cpp.o CMakeFiles/Conv.dir/src/CarRental.cpp.o -o Conv 
