@@ -1,18 +1,21 @@
-# Object-Oriented Programming Fundamentals
-
-This repository contains materials and tasks related to the "Fundamental Concepts of Object-Oriented Programming" course offered in the third semester of Applied Computer Science at AGH University of Krakow.
+# Fundamentals of Object-Oriented Programming
+This repository contains materials and exercises related to the **Fundamentals of Object-Oriented Programming** course, offered in the third semester of Applied Computer Science at AGH University of Krakow.
 
 ## Course Overview
+The course introduces students to the basics of object-oriented programming using **C++**, covering:
 
-In this course, students will gain a solid understanding of essential concepts in C++ programming. These concepts include:
+- Core concepts of object-oriented programming: encapsulation, inheritance, and polymorphism.
+- Syntax and features of the **C++** programming language.
+- Compilation and linking processes.
+- Data types, variables, control structures, and operators in **C++**.
+- Functions, function overloading, and object memory management.
+- Structures, classes, access specifiers, and static members.
+- Class methods, constructors, and destructors.
+- Friend functions, nested classes, and namespaces.
+- Operator overloading and string handling in **C++**.
+- Abstract classes, virtual functions, and polymorphism.
+- Practical implementation of object-oriented programming principles.
 
-- C++ syntax fundamentals
-- Operator overloading
-- Constructors and destructors, adhering to the rule of 0/3/5 principle
-- Move semantics
-- Inheritance
-- Polymorphism
+Laboratory exercises were conducted using **C++**, with a focus on writing structured, efficient, and maintainable code following object-oriented principles.
 
-## Tasks
-
-The tasks provided here cover various aspects of object-oriented programming in C++, allowing students to practice and reinforce their understanding of the course material.
+All programming tasks and exercises were designed to provide a solid foundation in **C++ programming** and **object-oriented design**.
